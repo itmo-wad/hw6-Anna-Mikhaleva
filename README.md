@@ -19,4 +19,4 @@ Unfortunately, I couldn't install docker on my version of Windows. Therefore, th
 1. Setup port forwarding and run docker-compose up. Check that website works on http://localhost:5000
 
 
-_You can find it in HW6_
+_You can find it in HW6 folder_
